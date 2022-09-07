@@ -19,4 +19,4 @@ Provided the in the image below, we can see that the score and percentage for ea
 ### How is the school summary affected?
 Looking closely at the data frame provided below, we can see all 15 of the listed schools and their grades. We can tell  that the charter schools seem to be better acedemically as opposed to the district schools which seem to struggle in math; all except for Thomas High School, which also seems to be the only charter school with a struggling math grade. Because of this, it seems to be affecting the overall passing percentage.
     
-![School_District_Summary](https://user-images.githubusercontent.com/110737061/189002140-4e3cdce2-1804-4f91-b162-ab28bcf7fcaf.png)
+![Per_School_Summary](https://user-images.githubusercontent.com/110737061/189002569-45247ed0-2ff2-4428-98e0-b355195347cf.png)
