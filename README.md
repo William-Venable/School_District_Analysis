@@ -36,4 +36,4 @@ The school board has supplied Maria with evidence of academic dishonesty, theref
   - However, based off the school type, the district schools seem to have an overall lower performance when it comes to academics as opposed to charter schools. Seeing as how district schools are larger than charter schools, this may of some influence on the number of students that are passing and failing. It also seems like the district schools actually have a larger budget than the charter schools, yet still have a lesser academic score than other schools.
 
 ## Summary
-In the end, the updated school district analysis saw no real change 
+In the end, the updated school district analysis saw no real change to a majority of the district, just primarily Thomas High School. We saw that the average math and reading scores increased for THS once replaced with NaNs, as well as an overall passing percentage increase for the school. We can also notice that THS is no longer a top five school.
