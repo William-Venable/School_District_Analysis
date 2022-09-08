@@ -28,7 +28,7 @@ The school board has supplied Maria with evidence of academic dishonesty, theref
 ![Average_Reading_Score](https://user-images.githubusercontent.com/110737061/189005635-06ccc4b9-464e-4dbc-9105-f461b018c05f.png)
 
 ### How does replacing the ninth-grade scores affect the following:
-### - Math and Reading Scores by Grade
-### - Scores by School Spending
-### - Scores by School Size
-### - Scores by School Type
+- Math and Reading Scores by Grade
+- Scores by School Spending
+- Scores by School Size
+- Scores by School Type
