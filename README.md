@@ -17,7 +17,7 @@ The school board has supplied Maria with evidence of academic dishonesty, theref
 ![School_District_Summary](https://user-images.githubusercontent.com/110737061/189000780-5e01ed93-6ba6-4941-9532-2a8ddf095292.png)
 
 ### How is the school summary affected?
-- Looking closely at the data frame provided below, we can see all 15 of the listed schools and their grades. We can tell  that the charter schools seem to be better acedemically as opposed to the district schools which seem to struggle in math; all except for Thomas High School, which also seems to be the only charter school with a struggling math grade. Because of this, it seems to be affecting the overall passing percentage.
+- Looking closely at the data frame provided below, we can see all 15 of the listed schools and their grades. We can tell  that the charter schools seem to be better academically as opposed to the district schools which seem to struggle in math; all except for Thomas High School, which also seems to be the only charter school with a struggling math grade. Because of this, it seems to be affecting the overall passing percentage.
     
 ![Per_School_Summary](https://user-images.githubusercontent.com/110737061/189002569-45247ed0-2ff2-4428-98e0-b355195347cf.png)
 
@@ -32,3 +32,8 @@ The school board has supplied Maria with evidence of academic dishonesty, theref
 - Scores by School Spending
 - Scores by School Size
 - Scores by School Type
+  -Overall, replacing the ninth-grade scores does not really affect any of the things listed above. The math and reading scores for the other grades are unaffected, there isnt a lack of or increase in money for the school, the school size doesn't change, and the school type remains the same.
+  - However, based off the school type, the district schools seem to have an overall lower performance when it comes to academics as opposed to charter schools. Seeing as how district schools are larger than charter schools, this may of some influence on the number of students that are passing and failing. It also seems like the district schools actually have a larger budget than the charter schools, yet still have a lesser academic score than other schools.
+
+## Summary
+In the end, the updated school district analysis saw no real change 
