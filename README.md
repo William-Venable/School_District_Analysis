@@ -24,5 +24,5 @@ Looking closely at the data frame provided below, we can see all 15 of the liste
 ### How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 We can see in our data frame that removing all of the ninth grade scores in reading and writing had no overall change in the rest of the schools performance relative to the other schools. They seem to perform just as well.
 
-![Average_Math_Score](https://user-images.githubusercontent.com/110737061/189005714-67f6edaf-e806-419c-a11f-fd143994daef.png)
+![Average_Math_Score](https://user-images.githubusercontent.com/110737061/189005755-884783a7-0d64-43bb-9bbd-5289b633720b.png)
 ![Average_Reading_Score](https://user-images.githubusercontent.com/110737061/189005635-06ccc4b9-464e-4dbc-9105-f461b018c05f.png)
